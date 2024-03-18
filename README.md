@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou JoséLopes</h1>
-<h3 align="center">Um desenvolvedor apaixonado de Angola</h3>
+# <h1 align="center">Olá 👋, sou JoséLopes</h1>
+# <h3 align="center">Um desenvolvedor apaixonado de Angola</h3>
 
 <p align="left"> <img src="https ://komarev.com/ghpvc/?username=joselopes&label=Profile%20views&color=0e75b6&style=flat" alt="joselopes" /> </p> <
 
@@ -17,7 +17,7 @@ p align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img 
 
 - 💬 Pergunte-me sobre **React.js, Django**
 
-- 📫 Como entrar em contato comigo **josemateusmanuellopes22@gmail.com**
+- 📫 Como entrar em contato comigo **josemateusmanuellopes22@gmail.com** 
 
 ### Postagens de blogs
 <!-- BLOG-POST-LIST:START - ->
