@@ -1,23 +1,23 @@
 # <h1 align="center">Olá 👋, sou JoséLopes</h1>
 # <h3 align="center">Um desenvolvedor apaixonado de Angola</h3>
 
-<p align="left"> <img src="https ://komarev.com/ghpvc/?username=joselopes&label=Profile%20views&color=0e75b6&style=flat" alt="joselopes" /> </p> <
+ # <p align="left"> <img src="https ://komarev.com/ghpvc/?username=joselopes&label=Profile%20views&color=0e75b6&style=flat" alt="joselopes" /> </p> 
+ 
+# <p align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joselopes" alt="joselopes" /></a></p>
 
-p align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joselopes" alt="joselopes" /></a> </p>
+# <p align="left"> <a href="https://twitter.com/joselopes" target="blank"><img src="https://img.shields.io/twitter/ follow/joselopes?logo=twitter&style=for-the-badge" alt="joselopes" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/joselopes" target="blank"><img src="https://img.shields.io/twitter/ follow/joselopes?logo=twitter&style=for-the-badge" alt="joselopes" /></a> </p>
+# - 🔭 Atualmente estou trabalhando em **Sota & slac**
 
-- 🔭 Atualmente estou trabalhando em **Sota & slac**
+# - 🌱 Atualmente estou trabalhando aprendendo **python**
 
-- 🌱 Atualmente estou trabalhando aprendendo **python**
+# - 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/ jose-lopes-254655220/)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/ jose-lopes-254655220/)
+# - 📝 Escrevo regularmente artigos em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/jose-lopes -254655220/)
 
-- 📝 Escrevo regularmente artigos em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/jose-lopes -254655220/)
+# - 💬 Pergunte-me sobre **React.js, Django**
 
-- 💬 Pergunte-me sobre **React.js, Django**
-
-- 📫 Como entrar em contato comigo **josemateusmanuellopes22@gmail.com**
+# - 📫 Como entrar em contato comigo **josemateusmanuellopes22@gmail.com**
 
 ### Postagens de blogs
 <!-- BLOG-POST-LIST:START - ->
