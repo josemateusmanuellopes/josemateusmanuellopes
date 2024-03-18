@@ -1,29 +1,29 @@
-<!-- # <h1 align="center">Olá 👋, sou JoséLopes</h1>
-# <h3 align="center">Um desenvolvedor apaixonado de Angola</h3>
+<h1 align="center">Olá 👋, sou JoséLopes</h1>
+<h3 align="center">Um desenvolvedor apaixonado de Angola</h3>
 
- # <p align="left"> <img src="https ://komarev.com/ghpvc/?username=joselopes&label=Profile%20views&color=0e75b6&style=flat" alt="joselopes" /> </p> 
- 
-# <p align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joselopes" alt="joselopes" /></a></p>
+<p align="left"> <img src="https ://komarev.com/ghpvc/?username=joselopes&label=Profile%20views&color=0e75b6&style=flat" alt="joselopes" /> </p> <
 
-# <p align="left"> <a href="https://twitter.com/joselopes" target="blank"><img src="https://img.shields.io/twitter/ follow/joselopes?logo=twitter&style=for-the-badge" alt="joselopes" /></a></p>
+p align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joselopes" alt="joselopes" /></a> </p>
 
-# - 🔭 Atualmente estou trabalhando em **Sota & slac**
+<p align="left"> <a href="https://twitter.com/joselopes" target="blank"><img src="https://img.shields.io/twitter/ follow/joselopes?logo=twitter&style=for-the-badge" alt="joselopes" /></a> </p>
 
-# - 🌱 Atualmente estou trabalhando aprendendo **python**
+- 🔭 Atualmente estou trabalhando em **Sota & slac**
 
-# - 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/ jose-lopes-254655220/)
+- 🌱 Atualmente estou trabalhando aprendendo **python**
 
-# - 📝 Escrevo regularmente artigos em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/jose-lopes -254655220/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/ jose-lopes-254655220/)
 
-# - 💬 Pergunte-me sobre **React.js, Django**
+- 📝 Escrevo regularmente artigos em [https://www.linkedin.com/in/jose-lopes-254655220/](https://www.linkedin.com/in/jose-lopes -254655220/)
 
-# - 📫 Como entrar em contato comigo **josemateusmanuellopes22@gmail.com**
+- 💬 Pergunte-me sobre **React.js, Django**
+
+- 📫 Como entrar em contato comigo **josemateusmanuellopes22@gmail.com**
 
 ### Postagens de blogs
 <!-- BLOG-POST-LIST:START - ->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://dev .to/joselopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /devto.svg" alt="joselopes" height="30" width="40" /></a>
 <a href="https://twitter.com/joselopes" target="blank"><img alinhar ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joselopes" height="30 " width="40" /></a>
@@ -34,8 +34,7 @@
 <a href="https://www.behance.net/https://www.behance.net/josemalopes" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/josemalopes" height="30" width=" 40" /></a>
 <a href="https://medium.com/@joselopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joselopes" height="30" width="40" /></a> <
 a href= "https://www.youtube.com/c/joselopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/youtube.svg" alt="joselopes" height="30" width="40" /></a>
-<a href="https://discord.gg/https ://discord.com/channels/@me" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+<a href="https://discord.gg/https ://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 <a href="/ https://github.com/josemateusmanuellopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/rss.svg" alt="https://github.com/josemateusmanuellopes" height="30" width="40" /></a> </p>
 <
 
@@ -46,5 +45,5 @@ h3 align="left" >Idiomas e ferramentas:</h3>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joselopes&show_icons=true&locale=en" alt="joselopes" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joselopes&" alt="joselopes" /></p> -->
- -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joselopes&" alt="joselopes" /></p>
+
