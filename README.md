@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou JoséLopes</h1>
+<!-- <h1 align="center">Olá 👋, sou JoséLopes</h1>
 <h3 align="center">Um desenvolvedor apaixonado de Angola</h3>
 
 <p align="left"> <img src="https ://komarev.com/ghpvc/?username=joselopes&label=Profile%20views&color=0e75b6&style=flat" alt="joselopes" /> </p> <
@@ -23,7 +23,7 @@ p align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img 
 <!-- BLOG-POST-LIST:START - ->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Conecte-se comigo:</h3>
+<!-- <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://dev .to/joselopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /devto.svg" alt="joselopes" height="30" width="40" /></a>
 <a href="https://twitter.com/joselopes" target="blank"><img alinhar ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joselopes" height="30 " width="40" /></a>
@@ -45,5 +45,5 @@ h3 align="left" >Idiomas e ferramentas:</h3>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joselopes&show_icons=true&locale=en" alt="joselopes" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joselopes&" alt="joselopes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joselopes&" alt="joselopes" /></p> --> -->
 
